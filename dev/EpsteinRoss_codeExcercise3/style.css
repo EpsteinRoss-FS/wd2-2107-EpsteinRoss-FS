@@ -1,0 +1,45 @@
+body{
+    font-family: Arial;
+}
+
+
+
+img {border: 1px solid grey; }
+
+p.img {margin-right: auto;}
+
+h1{
+    color: cornflowerblue;
+    font-size: 3em;
+    text-align:center;
+}
+
+h2{
+    color: darkslateblue;
+}
+
+h3{
+    color: dimgray;
+}
+
+p{
+
+    color: darkslateblue;
+    margin-right: auto;
+}
+
+ul li{
+    color: cadetblue;
+    font-weight: bold;
+
+}
+
+strong{
+
+    color:purple;
+}
+
+em{
+
+    color: seagreen;
+}
